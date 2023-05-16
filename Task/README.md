@@ -5,12 +5,17 @@ Task:
 
 Project Title: "Task Manager"
 
-Description: Build a task manager application that allows users to create and manage their tasks.
+ Can add a user  (name only).
 
-Requirements:
--The application should have a login/signup functionality.
--Users should be able to create tasks, view their tasks, and edit or delete their tasks.
--Each task should have a name, description, due date, and priority level.
--Users can search for tasks by name or due date.
--Users can mark tasks as complete or incomplete.
--Users can create categories for tasks and organize their tasks by category.
+b.      Can create a task, form fields are task Name, due Date, status(Default is pending).
+
+c.       Can view list of all task.   
+
+Can filter tasks with task Name
+Can filter tasks with status(Pending, Completed).
+Can filter tasks with due date.
+d.      Can delete a task.
+
+e.      Can edit a task.
+
+f.        Can change the status of the task.(Pending/Completed).
